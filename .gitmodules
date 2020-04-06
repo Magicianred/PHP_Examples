@@ -1,0 +1,15 @@
+[submodule "php-simple-app"]
+	path = php-simple-app
+	url = https://github.com/Magicianred/php-simple-app
+[submodule "php-base-info-site"]
+	path = php-base-info-site
+	url = https://github.com/Magicianred/php-base-info-site
+[submodule "lumen_flashcards"]
+	path = lumen_flashcards
+	url = https://github.com/Magicianred/lumen_flashcards
+[submodule "Xnowi_PHP"]
+	path = Xnowi_PHP
+	url = https://github.com/Magicianred/Xnowi_PHP
+[submodule "Xnowi_PHP_Example"]
+	path = Xnowi_PHP_Example
+	url = https://github.com/Magicianred/Xnowi_PHP_Example
